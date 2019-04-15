@@ -2,4 +2,4 @@
 Implementation of classic Connected Component Analysis
 
 
-![Rice example] (ConnectedComponentProject/rice1.png)
+![RiceExample1] (ConnectedComponentProject/rice1.png)
